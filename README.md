@@ -19,3 +19,4 @@ A simple script to check basic server performance metrics.
 ```bash
 sh server-stats.sh
 ```
+https://roadmap.sh/projects/server-stats
